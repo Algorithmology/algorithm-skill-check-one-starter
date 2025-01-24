@@ -65,8 +65,8 @@ the instructor detects that a student has committed a likely violation of the
 Allegheny College Honor Code, this will result in the filing of a report with
 the Dean of Students Office and the furnishing of all details about the likely
 violation. Please make sure that you review the [Allegheny College Honor
-Code](https://sites.allegheny.edu/about/honor-code/) before you start to take
-this assessment.
+Code](https://sites.allegheny.edu/maytum-center-student-success/academic-honor-program/)
+before you start to take this assessment.
 
 ## :star2: Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this algorithm engineering skill check."
 
