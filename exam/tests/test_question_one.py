@@ -10,6 +10,8 @@ from questions.question_one import (
     detect_duplicates_in_lists,
 )
 
+# NOTE: Do not modify any of the source code in this file.
+
 
 @pytest.mark.question_one_part_a
 def test_detect_duplicates():
